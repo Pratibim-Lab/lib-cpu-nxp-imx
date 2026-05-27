@@ -1,0 +1,17 @@
+{
+  "id": "CPU_NXP_IMX/MCIMX6DP6AVT:MCIMX6DP6AVT",
+  "name": "MCIMX6DP6AVT",
+  "library": "CPU_NXP_IMX",
+  "file": "CPU_NXP_IMX.kicad_symdir/MCIMX6DP6AVT.kicad_sym",
+  "description": "i.MX 6DualPlus Automotive and Infotainment Application Processor, BGA-624",
+  "datasheet": "https://www.nxp.com/docs/en/data-sheet/IMX6DQPAEC.pdf",
+  "keywords": "Dual-Core ARM Cortex A9 SOC Automotive",
+  "footprint": "Package_BGA:BGA-624_21x21mm_Layout25x25_P0.8mm",
+  "extends": "MCIMX6QP5EYM",
+  "base_url": "https://cdn.jsdelivr.net/gh/Pratibim-Lab/lib-cpu-nxp-imx@master/parts/MCIMX6DP6AVT/",
+  "part_path": "parts/MCIMX6DP6AVT",
+  "symbol_file": "parts/MCIMX6DP6AVT/MCIMX6DP6AVT.kicad_sym",
+  "source_library": "CPU_NXP_IMX.kicad_symdir",
+  "schema_version": "1.1",
+  "updated_at": "2026-05-27T06:02:33.318Z"
+}

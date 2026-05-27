@@ -1,0 +1,17 @@
+{
+  "id": "CPU_NXP_IMX/MCIMX6Q5EYM:MCIMX6Q5EYM",
+  "name": "MCIMX6Q5EYM",
+  "library": "CPU_NXP_IMX",
+  "file": "CPU_NXP_IMX.kicad_symdir/MCIMX6Q5EYM.kicad_sym",
+  "description": "i.MX 6Quad Application Processor for Consumer Products, BGA-624",
+  "datasheet": "https://www.nxp.com/docs/en/data-sheet/IMX6DQCEC.pdf",
+  "keywords": "Quad-Core ARM Cortex A9 SOC",
+  "footprint": "Package_BGA:BGA-624_21x21mm_Layout25x25_P0.8mm",
+  "extends": "MCIMX6QP5EYM",
+  "base_url": "https://cdn.jsdelivr.net/gh/Pratibim-Lab/lib-cpu-nxp-imx@master/parts/MCIMX6Q5EYM/",
+  "part_path": "parts/MCIMX6Q5EYM",
+  "symbol_file": "parts/MCIMX6Q5EYM/MCIMX6Q5EYM.kicad_sym",
+  "source_library": "CPU_NXP_IMX.kicad_symdir",
+  "schema_version": "1.1",
+  "updated_at": "2026-05-27T06:02:33.324Z"
+}

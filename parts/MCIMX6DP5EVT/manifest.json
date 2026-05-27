@@ -1,0 +1,17 @@
+{
+  "id": "CPU_NXP_IMX/MCIMX6DP5EVT:MCIMX6DP5EVT",
+  "name": "MCIMX6DP5EVT",
+  "library": "CPU_NXP_IMX",
+  "file": "CPU_NXP_IMX.kicad_symdir/MCIMX6DP5EVT.kicad_sym",
+  "description": "i.MX 6DualPlus Application Processor for Consumer Products, BGA-624",
+  "datasheet": "https://www.nxp.com/docs/en/data-sheet/IMX6DQPCEC.pdf",
+  "keywords": "Dual-Core ARM Cortex A9 SOC",
+  "footprint": "Package_BGA:BGA-624_21x21mm_Layout25x25_P0.8mm",
+  "extends": "MCIMX6QP5EYM",
+  "base_url": "https://cdn.jsdelivr.net/gh/Pratibim-Lab/lib-cpu-nxp-imx@master/parts/MCIMX6DP5EVT/",
+  "part_path": "parts/MCIMX6DP5EVT",
+  "symbol_file": "parts/MCIMX6DP5EVT/MCIMX6DP5EVT.kicad_sym",
+  "source_library": "CPU_NXP_IMX.kicad_symdir",
+  "schema_version": "1.1",
+  "updated_at": "2026-05-27T06:02:33.313Z"
+}
